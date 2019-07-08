@@ -76,7 +76,7 @@ a {
   -moz-box-shadow: inset 0 3em 3em rgba(17, 17, 17, 0.5);
   -webkit-box-shadow: inset 0 3em 3em rgba(17, 17, 17, 0.5);
   box-shadow: inset 0 3em 3em rgba(17, 17, 17, 0.5);
-  background: #EC3237 url(/images/header.png) no-repeat center -60px;
+  background: #EC3237 no-repeat center -60px;
 }
 
 /***************************************************************************
